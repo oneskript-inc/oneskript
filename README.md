@@ -1,2 +1,0 @@
-# oneskript
-Main website demo

@@ -4103,7 +4103,7 @@
 				opacity: 0;
 			}
 
-			.tiles2 article:nth-child(4n - 1), .tiles article:nth-child(4n - 2) {
+			.tiles2 article:nth-child(4n - 1), .tiles2 article:nth-child(4n - 2) {
 				width: 50%;
 			}
 
